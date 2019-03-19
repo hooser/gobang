@@ -1,7 +1,6 @@
 
     #gobang
-    
-    
+    try to defeat it!
     Gobang is a logic strategy board game commonly played with black and white pieces and 19*19 
   board with intersetions from game Go. The origin of the game has been debated but researchers
   have found evidence indicating China has been the original country.
